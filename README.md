@@ -12,8 +12,10 @@ Sigue estos pasos para configurar y ejecutar Book2Comic:
 
 ### Paso 1: Clonar el Repositorio
 
-Descarga o clona el repositorio desde la fuente proporcionada.
-
+Clona el repositorio: 
+```bash
+git clone https://github.com/tomasalcantaraaccenture/Book2ComicAccenture.git
+```
 ### Paso 2: Crear el Entorno Conda
 
 Asegúrate de tener Conda instalado en tu sistema. Luego, crea el entorno usando el archivo `environment.yml` proporcionado:
